@@ -1,6 +1,7 @@
 import Calendar from "./components/Calendar";
 
-function App() {
+// function App() {
+const App = () => {
   return (
     <div className="App class">
       <Calendar />
